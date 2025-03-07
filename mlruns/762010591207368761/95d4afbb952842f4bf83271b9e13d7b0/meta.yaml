@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jpere/OneDrive/Documentos/ESPECIALIZACION%20INTELIGENCIA%20ARTIFICIAL/DESARROLLO%20DE%20PROYECTOS%20DE%20INTELIGENCIA%20ARTIFICIAL/MonitoreoProyectosML_IA/mlruns/762010591207368761/95d4afbb952842f4bf83271b9e13d7b0/artifacts
+end_time: 1741377312581
+entry_point_name: ''
+experiment_id: '762010591207368761'
+lifecycle_stage: active
+run_id: 95d4afbb952842f4bf83271b9e13d7b0
+run_name: amazing-worm-930
+run_uuid: 95d4afbb952842f4bf83271b9e13d7b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741377307349
+status: 3
+tags: []
+user_id: jpere
