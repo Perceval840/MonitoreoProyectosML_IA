@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jpere/OneDrive/Documentos/ESPECIALIZACION%20INTELIGENCIA%20ARTIFICIAL/DESARROLLO%20DE%20PROYECTOS%20DE%20INTELIGENCIA%20ARTIFICIAL/MonitoreoProyectosML_IA/mlruns/762010591207368761/f6714f8ba20144e2a7301e560382ce74/artifacts
+end_time: 1741375901036
+entry_point_name: ''
+experiment_id: '762010591207368761'
+lifecycle_stage: active
+run_id: f6714f8ba20144e2a7301e560382ce74
+run_name: funny-finch-533
+run_uuid: f6714f8ba20144e2a7301e560382ce74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741375895018
+status: 3
+tags: []
+user_id: jpere
